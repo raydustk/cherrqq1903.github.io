@@ -4,10 +4,9 @@
 }
 
 .container {
+    background-image: url("assets/img/bg.png");
     height: 100%;
     width: 100%;
-    background-image: url("assets\img\PortfolioBG.png");
-    background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     padding-left: 2%;
@@ -25,7 +24,8 @@
 }
 
 .logo {
-    width: 160px;
+    width: 100px;
+    height: 100px;
     cursor: pointer;
 }
 
